@@ -1,7 +1,6 @@
 # Pr-cticas-sobre-Arreglos-Bidimensionales
 
 ## 1: Sistema de Promedio de Estudiantes
-
 ### Descripción
 
 Aplicación diseñada para gestionar y calcular promedios académicos de estudiantes en múltiples asignaturas. Permite registrar calificaciones de 4 estudiantes en 3 asignaturas diferentes y calcular tanto promedios individuales como promedios por materia.
@@ -20,7 +19,6 @@ Aplicación diseñada para gestionar y calcular promedios académicos de estudia
 2. **Promedio por Asignatura**: Determina el rendimiento promedio grupal en cada materia
 3. **Validación de Datos**: Asegura que solo se ingresen valores numéricos válidos
 ## 2: Sistema de Procesamiento de Matrices
-
 ### Descripción
 
 Aplicación versátil que permite trabajar con matrices de dimensiones dinámicas definidas por el usuario. Identifica automáticamente los valores máximo y mínimo dentro de la matriz junto con sus posiciones exactas.
